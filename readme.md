@@ -5,13 +5,13 @@ View your own markdown wiki from the browser. Very minimal/follows the unix phil
 Install:
 ```
 git clone <repo url>
-cd localwiki
+cd suckwiki
 nimble install
 ```
 
 Usage:
 ```
-localwiki -p:8888 /path/to/wiki
+suckwiki -p:8888 /path/to/wiki
 ```
 
 Put your custom css at the root of your wiki named "style.css".
